@@ -1,0 +1,19 @@
+{
+  "name": "enguardian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinlabs/enGuardian.git"
+  },
+  "author": "Kevin Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinlabs/enGuardian/issues"
+  },
+  "homepage": "https://github.com/kevinlabs/enGuardian#readme"
+}
