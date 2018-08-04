@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kevinlabs/enGuardian#readme",
   "dependencies": {
-    "ms-task": "^1.1.0"
+    "ms-task": "^1.1.0",
+    "node-run-cmd": "^1.0.1"
   }
 }
